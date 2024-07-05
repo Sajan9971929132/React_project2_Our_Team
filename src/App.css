@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+    justify-content: space-around; /* Distributes space around the cards */
+    gap: 50px;
+  }
+.con{
+    
+}
